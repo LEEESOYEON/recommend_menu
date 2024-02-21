@@ -71,16 +71,7 @@
 DAO 클래스는 커넥션을 수립하고 쿼리문 작성,실행,결과의 매핑을 수행하여 CRUD 기능을 구현합니다.<br>
 CRUD 기능을 수행하는 메서드 정의 시 매개변수를 최대한 활용하여 코드의 중복을 줄이고, 단일 책임 원칙을 준수하면서도 보다 우연하고 재사용성 높은 코드를 구현할 수 있었습니다.<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### __*기능 명세서*__<br>
+<div align="center">
+    <img src="https://github.com/LEEESOYEON/recommend_menu/assets/150236010/f39cd77a-322a-449e-975e-148adb6e7de9" width="80%" height="100%">
+</div>
